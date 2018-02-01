@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CSC300_Spring2018_LinkedList.iml" filepath="$PROJECT_DIR$/CSC300_Spring2018_LinkedList.iml" />
+      <module fileurl="file://C:\Users\gmk19\AndroidStudioProjects\CSC300_Spring2018_LinkedLists\CSC300_Spring2018_LinkedList.iml" filepath="C:\Users\gmk19\AndroidStudioProjects\CSC300_Spring2018_LinkedLists\CSC300_Spring2018_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSC300_Spring2018_LinkedLists.iml" filepath="$PROJECT_DIR$/.idea/CSC300_Spring2018_LinkedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\gmk19\AndroidStudioProjects\CSC300_Spring2018_LinkedLists\app\app.iml" filepath="C:\Users\gmk19\AndroidStudioProjects\CSC300_Spring2018_LinkedLists\app\app.iml" />
     </modules>
   </component>
 </project>
